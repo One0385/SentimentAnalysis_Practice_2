@@ -100,6 +100,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - NLTK team for VADER implementation
 - Hugging Face for the Transformers library
 - The open-source community
+- Main reference
+  - [Rob Mulla's YouTube Video](https://youtu.be/QpzMWQvxXWk?si=87TKCnG_On0KbVdW)
+  - [Rob Mulla's Kaggle Notebook](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEsxSGlac1ZxbE94WHVBVDNsejNwU0FlaWxDd3xBQ3Jtc0tsRV9BRDF3YVdNaTVqQTAta0gxZVhmWXZlMzhWQk5uS0lJQjd5Um9zRk0tQTVrMF9nRTIzVjNKWV9YVVo1ZkdtQWhDbFNocG02MHJFX3c4VHVDWjJYNGk2Vkg5a3NRa1RLYThYeWJadWlXN0dtOXJ2Zw&q=https%3A%2F%2Fwww.kaggle.com%2Frobikscube%2Fsentiment-analysis-python-youtube-tutorial&v=QpzMWQvxXWk)
 
 ---
 *This project is part of my portfolio demonstrating practical NLP skills and understanding of different sentiment analysis approaches.*
